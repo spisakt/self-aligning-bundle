@@ -1,0 +1,11 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+jax>=0.4.30
+jaxlib>=0.4.30
+svgutils>=0.3.4
+cairosvg>=2.7
+pillow>=10
+jupyter
+nbformat
+nbclient

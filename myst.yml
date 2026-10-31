@@ -1,0 +1,27 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: "The self-aligning bundle: how matter with slow, coarse-grained dynamics comes to infer and learn"
+  subtitle: "draft for collaborators"
+  short_title: "The self-aligning bundle"
+  keywords:
+    - free energy principle
+    - variational free energy
+    - information geometry
+    - exponential families
+    - active inference
+  license: CC-BY-4.0
+  authors:
+    - name: Tamas Spisak
+      affiliations:
+        - Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Germany
+      orcid: 0000-0002-2942-0821
+      email: tamas.spisak@uk-essen.de
+      corresponding: true
+  toc:
+    - file: manuscript-bullet.md
+site:
+  template: article-theme
+  nav: []
+  actions: []
+  domains: []

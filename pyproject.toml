@@ -1,0 +1,13 @@
+[project]
+name = "network"
+version = "0.1.0"
+description = "Finite-state jump processes whose coarse coordinates perceive and learn (figures of 'The self-aligning bundle')"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "scipy>=1.11", "matplotlib>=3.8", "jax>=0.4.30", "svgutils>=0.3.4", "cairosvg>=2.7"]
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["network"]
